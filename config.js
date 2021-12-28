@@ -11,26 +11,26 @@ const CONFIG = {
   // └─┘┴ ┴└─┘┴└─┘└─┘
 
   // General
-  name: 'John',
+  name: 'Tan',
   imageBackground: false,
   openInNewTab: true,
   twelveHourFormat: false,
 
   // Greetings
-  greetingMorning: 'Good morning!',
+  greetingMorning: 'Ohayo~!',
   greetingAfternoon: 'Good afternoon,',
   greetingEvening: 'Good evening,',
-  greetingNight: 'Go to Sleep!',
+  greetingNight: 'Go to sleep!',
 
   // Weather
-  weatherKey: 'InsertYourAPIKeyHere123456',
-  weatherIcons: 'OneDark', // 'Nord', 'Dark', 'White'
-  weatherUnit: 'C', // 'F', 'C'
-  language: 'en', // More languages in https://openweathermap.org/current#multi
+//   weatherKey: 'InsertYourAPIKeyHere123456',
+//   weatherIcons: 'OneDark', // 'Nord', 'Dark', 'White'
+//   weatherUnit: 'C', // 'F', 'C'
+//   language: 'en', // More languages in https://openweathermap.org/current#multi
 
-  trackLocation: true, // If false or an error occurs, the app will use the lat/lon below
-  defaultLatitude: '37.775',
-  defaultLongitude: '-122.419',
+//   trackLocation: true, // If false or an error occurs, the app will use the lat/lon below
+//   defaultLatitude: '37.775',
+//   defaultLongitude: '-122.419',
 
   // ┌─┐┌─┐┬─┐┌┬┐┌─┐
   // │  ├─┤├┬┘ ││└─┐
@@ -88,38 +88,38 @@ const CONFIG = {
   lists: {
     firstList: [
       {
-        name: 'Inspirational',
-        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+        name: 'BugsWriter',
+        link: 'https://www.youtube.com/c/BugsWriter0x1337',
       },
       {
-        name: 'Classic',
-        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+        name: 'Broddie',
+        link: 'https://www.youtube.com/c/BrodieRobertson',
       },
       {
-        name: 'Oldies',
-        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+        name: 'Ben Awad',
+        link: 'https://www.youtube.com/c/BenAwad97',
       },
       {
-        name: 'Rock',
-        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+        name: 'Linux Cast',
+        link: 'https://www.youtube.com/results?search_query=linux+cast',
       },
     ],
     secondList: [
       {
-        name: 'Linkedin',
-        link: 'https://linkedin.com/',
+        name: 'Smash karts',
+        link: 'https://smashkarts.io/',
       },
       {
-        name: 'Figma',
-        link: 'https://figma.com/',
+        name: 'Umgbhalla Dotstow',
+        link: 'https://github.com/umgbhalla/dotstow//',
       },
       {
-        name: 'Dribbble',
-        link: 'https://dribbble.com',
+        name: 'Kshgrk Dotfiles',
+        link: 'https://github.com/kshgrk/linux_dotfiles/',
       },
       {
-        name: 'Telegram',
-        link: 'https://webk.telegram.org',
+        name: 'Hxyro Dotstow',
+        link: 'https://github.com/hxyro/Dot_files',
       },
     ],
   },
